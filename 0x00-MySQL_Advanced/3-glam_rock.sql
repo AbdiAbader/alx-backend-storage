@@ -3,7 +3,7 @@ SELECT
     band_name, 
     (YEAR(split) - YEAR(formed)) AS lifespan 
 FROM 
-    bands 
+    metals_bands 
 WHERE 
     main_style = 'Glam rock' 
 ORDER BY 
