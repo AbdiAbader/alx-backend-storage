@@ -1,0 +1,2 @@
+// liat all
+db.school.find()
