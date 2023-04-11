@@ -1,4 +1,4 @@
 // insert
-db.school.posts.insertone({
+db.school.insertone({
     name: 'Holberton School'
 })
